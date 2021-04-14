@@ -10,4 +10,12 @@ int main() {
 
 	cout << "Output liczby w c++ : " << a << endl;
 	printf("Output liczby w c : %d\n", a);
+
+	int x, y;
+
+	cout << "Input c++: " << endl;
+	cin >> x;
+
+	cout << "Input c: " << endl;
+	scanf("%d", &y);
 }

@@ -16,6 +16,8 @@ int main() {
 		cout << text << endl;
 	}
 	
+	cerr << "CERR" << endl;
+
 	rfile.close();
 }
 
