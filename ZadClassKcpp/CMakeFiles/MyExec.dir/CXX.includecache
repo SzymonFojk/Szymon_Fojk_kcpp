@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/szymon/Szymon_Fojk_kcpp/ZadClassKcpp/src/main.cc
+math.h
+-
+iomanip
+-
+fstream
+-
+funcs.h
+/home/szymon/Szymon_Fojk_kcpp/ZadClassKcpp/src/funcs.h
+string.h
+-
+
+include/funcs.h
+iostream
+-
+
